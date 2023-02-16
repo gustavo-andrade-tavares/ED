@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610031692 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_duplamente_enc\lista_duplamente_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista_duplamente_enc.h"
+
+1610030350 c:\users\gustavo\documents\c\revisão e aprofundamento\lista_duplamente_enc\lista_duplamente_enc.h
+
+1610031825 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_duplamente_enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista_duplamente_enc.h"
+

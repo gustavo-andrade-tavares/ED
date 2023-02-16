@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610567568 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_ordenada\lista_ordenada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista_ordenada.h"
+
+1610566588 c:\users\gustavo\documents\c\revisão e aprofundamento\lista_ordenada\lista_ordenada.h
+
+1610565812 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista_ordenada.h"
+

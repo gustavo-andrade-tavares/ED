@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1615229350 source:c:\users\gustavo\documents\c\grafos_buscas\fila.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1615229348 c:\users\gustavo\documents\c\grafos_buscas\fila.h
+
+1615232403 source:c:\users\gustavo\documents\c\grafos_buscas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafos_buscas.h"
+
+1615229957 c:\users\gustavo\documents\c\grafos_buscas\grafos_buscas.h
+
+1615233348 source:c:\users\gustavo\documents\c\grafos_buscas\grafos_buscas.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafos_buscas.h"
+	"fila.h"
+

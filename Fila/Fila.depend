@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1602194480 source:c:\users\gustavo\documents\c\fila\fila.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1602194477 c:\users\gustavo\documents\c\fila\fila.h
+
+1602194569 source:c:\users\gustavo\documents\c\fila\main.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1601422517 source:c:\users\gustavo\documents\c\fila\teste.c
+	"fila.h"
+	<stdio.h>
+	<stdlib.h>
+

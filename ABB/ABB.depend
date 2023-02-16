@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615154772 source:c:\users\gustavo\documents\c\abb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ABB.h"
+
+1615154586 c:\users\gustavo\documents\c\abb\abb.h
+
+1615154671 source:c:\users\gustavo\documents\c\abb\abb.c
+	<stdio.h>
+	<stdlib.h>
+	"ABB.h"
+

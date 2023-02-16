@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610914854 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_generalizada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista_Generalizada.h"
+
+1610914044 c:\users\gustavo\documents\c\revisão e aprofundamento\lista_generalizada\lista_generalizada.h
+
+1610916453 source:c:\users\gustavo\documents\c\revisão e aprofundamento\lista_generalizada\lista_generalizada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista_Generalizada.h"
+

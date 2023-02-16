@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614529782 source:c:\users\gustavo\documents\c\revisão e aprofundamento\arvore_b\arvore_b.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_B.h"
+
+1614529778 c:\users\gustavo\documents\c\revisão e aprofundamento\arvore_b\arvore_b.h
+	<stdio.h>
+	<stdlib.h>
+
+1614530398 source:c:\users\gustavo\documents\c\revisão e aprofundamento\arvore_b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_B.h"
+
